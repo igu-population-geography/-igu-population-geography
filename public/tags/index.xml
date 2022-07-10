@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on somrat | Hugo Portfolio Template</title>
+    <link>https://examplesite.com/tags/</link>
+    <description>Recent content in Tags on somrat | Hugo Portfolio Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2022 by Francisco Rowe using hugo based on [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sun, 10 Jul 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>congress</title>
+      <link>https://examplesite.com/tags/congress/</link>
+      <pubDate>Sun, 10 Jul 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/congress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>events</title>
+      <link>https://examplesite.com/tags/events/</link>
+      <pubDate>Sun, 10 Jul 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>art</title>
+      <link>https://examplesite.com/tags/art/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design</title>
+      <link>https://examplesite.com/tags/design/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://examplesite.com/tags/development/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://examplesite.com/tags/web/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/web/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

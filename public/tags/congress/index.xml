@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>congress on somrat | Hugo Portfolio Template</title>
+    <link>https://examplesite.com/tags/congress/</link>
+    <description>Recent content in congress on somrat | Hugo Portfolio Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2022 by Francisco Rowe using hugo based on [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sun, 10 Jul 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/tags/congress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IGU Centennial Congress, in Paris, 18-22 July 2022</title>
+      <link>https://examplesite.com/blog/blog-1/</link>
+      <pubDate>Sun, 10 Jul 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/blog-1/</guid>
+      <description>The commission is involved in the IGU Centennial Congress, in Paris, 18-22 July 2022</description>
+    </item>
+    
+  </channel>
+</rss>
