@@ -1,30 +1,17 @@
 ---
-title : "SERVICES"
+title : "Networks"
 service_list:
 # service item loop
-- name : "Web Development"
-  image : "images/icons/web-development.png"
+- name : "[British Society for Population Studies](https://www.lse.ac.uk/social-policy/research/Research-clusters/british-society-for-population-studies)"
+  image : "images/icons/bsps-logo.png"
   
 # service item loop
-- name : "Graphic Design"
-  image : "images/icons/graphic-design.png"
+- name : "[Population Association of America](https://www.populationassociation.org/home)"
+  image : "images/icons/paa-logo.png"
   
 # service item loop
-- name : "Database Management"
-  image : "images/icons/dbms.png"
-  
-# service item loop
-- name : "Software Development"
-  image : "images/icons/software-development.png"
-  
-# service item loop
-- name : "Digital Marketing"
-  image : "images/icons/marketing.png"
-  
-# service item loop
-- name : "Mobile App Development"
-  image : "images/icons/mobile-app.png"
-
+- name : "[Association of American Geographers](https://www.aag.org)"
+  image : "images/icons/aag_logo_bw.png"
 
 
 # custom style

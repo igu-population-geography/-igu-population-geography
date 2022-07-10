@@ -3,7 +3,7 @@ title : "International Geographical Union (IGU) Commission on Population Geograp
 # full screen navigation
 first_name : " "
 last_name : " "
-bg_image : "images/backgrounds/full-nav-bg.jpg"
+bg_image : "images/backgrounds/globe.jpg"
 # animated text loop
 occupations:
 - "Commission de géographie de la population"
