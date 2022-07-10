@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = " https://igu-population-geography.github.io/igu-population-geography/"
 title = "somrat | Hugo Portfolio Template"
 theme = "somrat"
 # post pagination
