@@ -1,5 +1,5 @@
 ---
-title : "How to join the Commission? Contact us"
+title : "How to join the Commission? Contact us (no fee)"
 bg_image: "images/backgrounds/contact-us-bg.jpg"
 form_action: "#" # works with https://formspree
 name: "Name"

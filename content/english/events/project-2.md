@@ -14,6 +14,6 @@ project_info:
   content: "https://www.eaps.nl/epc/european-population-conference-2022"
 ---
 
-The European Population Conference 2022 is happening! Join from 29 June – 2 July.
+The European Population Conference 2022 is happening! Join from 29 June -- 2 July.
 
 EPC will take place in the beautiful and lively city of Groningen for the first time, organising the conference in collaboration with the Netherlands Interdisciplinary Demographic Institute (NIDI-KNAW) and the University of Groningen. Details on registration and conference programme on the website.

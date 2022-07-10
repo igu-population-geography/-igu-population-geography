@@ -1,5 +1,5 @@
 ---
-title : "Networks"
+title : "NETWORKS"
 service_list:
 # service item loop
 - name : "[British Society for Population Studies](https://www.lse.ac.uk/social-policy/research/Research-clusters/british-society-for-population-studies)"

@@ -1,7 +1,7 @@
 ---
-title: "Events"
+title: "EVENTS"
 description: ""
-draft: false
+draft: true
 
 
 # custom style

@@ -122,16 +122,17 @@ pre = "#"
 url = "about"
 weight = 2
 
-[[Languages.en.menu.main]]
-name = "Events"
-pre = "#"
-url = "events"
-weight = 3
 
 [[Languages.en.menu.main]]
 name = "Networks"
 pre = "#"
 url = "networks"
+weight = 3
+
+[[Languages.en.menu.main]]
+name = "Events"
+pre = "#"
+url = "events"
 weight = 4
 
 [[Languages.en.menu.main]]
@@ -166,20 +167,21 @@ pre = "#"
 url = "about"
 weight = 2
 
-[[Languages.fr.menu.main]]
-name = "Events"
-pre = "#"
-url = "events"
-weight = 3
 
 [[Languages.fr.menu.main]]
 name = "Networks"
 pre = "#"
 url = "networks"
-weight = 5
+weight = 3
+
+[[Languages.fr.menu.main]]
+name = "Events"
+pre = "#"
+url = "events"
+weight = 4
 
 [[Languages.fr.menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
-weight = 6
+weight = 5
