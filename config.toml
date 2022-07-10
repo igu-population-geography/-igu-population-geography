@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://igu-population-geography.github.io/igu-population-geography/"
-title = "somrat | Hugo Portfolio Template"
+title = "International Geographical Union Commission on Population Geography"
 theme = "somrat"
 # post pagination
 paginate = "6"
