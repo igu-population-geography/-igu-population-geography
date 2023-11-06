@@ -25,9 +25,9 @@ experience:
       content : "Umeå universitet, Samhällsvetarhuset, Umeå, Sweden. charlotta.hedberg@umu.se"
       
     # experience item loop
-    - name : "Dr. Francisco Rowe"
+    - name : "Professor Francisco Rowe"
       company : "Secretary"
-      duration : (2021-current)"
+      duration : "(2021-current)"
       content : "Geographic Data Science Lab, University of Liverpool, Liverpool, United Kingdom.
       F.Rowe-Gonzalez@liverpool.ac.uk"
       
